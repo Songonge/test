@@ -10,4 +10,6 @@
 * This is 2
 
 
-| test |
+<div style="border:1px solid #ccc; padding:10px; border-radius:5px;">
+This is a custom-styled box using HTML.
+</div>
