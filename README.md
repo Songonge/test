@@ -10,5 +10,5 @@
 * This is 2
 
 
-| Align left | Centered  | Align right |
-| :------------ |:---------------:| -----:|
+| Align left | 
+| :------------ |
