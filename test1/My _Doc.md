@@ -4,6 +4,7 @@
 ## Table Of Contents
 * [Project overview](#Project-overview)
 * [Business Questions](#business-questions)
+* [Data visualization](#Data-visualization)
 * [Why These Recommendations Will Work?](#Why-These-Recommendations-Will-Work)
 
 ## Project overview
@@ -32,6 +33,8 @@ Tool Used: Power BI
 
 ## Data analysis
 I used DAX:
+
+[Back to TOC](#back-to-toc)
 
 ## Data visualization
 ![Dashboard](https://github.com/Songonge/Excel-Projects/blob/main/Other%20Dashboards/Cosmetics_Sales_Dashboard.png)
