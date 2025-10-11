@@ -48,7 +48,7 @@ I used DAX:
 > Do not compare your journey to another person's journey. You will be burned out.
 
 > [!TIP]
-> Post at least three times a week.
+> * Post at least three times a week.
 > * Talk about relatable stories.
 > * Comment more
 
