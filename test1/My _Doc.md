@@ -49,8 +49,8 @@ I used DAX:
 
 > [!TIP]
 > Post at least three times a week.
-> Talk about relatable stories.
-> Comment more
+> * Talk about relatable stories.
+> * Comment more
 
 ## Why These Recommendations Will Work?
 
