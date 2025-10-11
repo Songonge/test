@@ -1,4 +1,5 @@
 # Project: Sales Analysis for an Electronics Company in Belgium
+------
 
 ## Project overview
 This project is to understand why sales are dropping in some regions.
