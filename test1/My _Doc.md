@@ -54,4 +54,29 @@ I used DAX:
 
 ## Why These Recommendations Will Work?
 
+```python
+print("Hello World")
+```
+
+```
+for i in range(1, 10):
+  print i
+```
+
+```sql
+SELECT
+  Boubacar,
+  Victor,
+  Ashley
+FROM ESAnalysis_PowerBI_Cohort_3
+GROUP BY country
+;
+```
+
+
+
+
+
+
+
 
