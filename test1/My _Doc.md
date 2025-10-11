@@ -37,7 +37,21 @@ I used DAX:
 
 ## Recommendations
 * Make a discount on some products to attract more customers.
-  
+
+> [!NOTE]
+> Optimize your profile to make it stand out
+
+> [!IMPORTANT]
+> Post on LinkedIn to build confidence and create visibility.
+
+> [!WARNING]
+> Do not compare your journey to another person's journey. You will be burned out.
+
+> [!TIP]
+> Post at least three times a week.
+> Talk about relatable stories.
+> Comment more
+
 ## Why These Recommendations Will Work?
 
 
