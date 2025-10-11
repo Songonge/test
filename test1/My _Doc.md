@@ -34,7 +34,7 @@ Tool Used: Power BI
 ## Data analysis
 I used DAX:
 
-[Back to TOC](#Back-to-TOC)
+![Back to TOC](#Back-to-TOC)
 
 ## Data visualization
 ![Dashboard](https://github.com/Songonge/Excel-Projects/blob/main/Other%20Dashboards/Cosmetics_Sales_Dashboard.png)
