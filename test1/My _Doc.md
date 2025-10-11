@@ -67,6 +67,10 @@ print("Hello World")
 ```
 
 ```python
+python m2m_api/download_images.py
+```
+
+```python
 for i in range(1, 10):
   print i
 ```
