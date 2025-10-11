@@ -1,10 +1,15 @@
 # Project: Sales Analysis for an Electronics Company in Belgium
 ------
 
+## Table Of Contents
+* [Project overview](#Project-overview)
+* [Business Questions](#business-questions)
+* [Why These Recommendations Will Work?](#Why-These-Recommendations-Will-Work)
+
 ## Project overview
 This project is to understand why sales are dropping in some regions.
 
-## Business questions
+## Business Questions
 1. What are the most performing regions?
 2. What is the most sought-after product?
 3. How is the company performing on a year-over-year basis?
