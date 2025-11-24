@@ -90,9 +90,9 @@ GROUP BY country
 | 1 | 2 | 3 |
 | 4 | 5 | 6 |
 
-
+To center a text, use the syntax below:  
 <div align="center">
-  my text here.
+  My text here.
 </div>
 
 
